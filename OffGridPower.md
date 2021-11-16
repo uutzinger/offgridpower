@@ -1,11 +1,11 @@
 # Power Packs
 Emergency Power Stations about 300Wh or 30AH
-*Energizer Portable Power Station: http://www.energizerpowerbanks.com/product.php?category=C0003
-*Jackery Portable Power Station 200W $200
-*Jackery Portable Power Station 300W $300
-*Jackery Portable Power Station 500W $500
-*Rocksolar 300W $330
-*Rocksolar 400W $410
+* Energizer Portable Power Station: http://www.energizerpowerbanks.com/product.php?category=C0003
+* Jackery Portable Power Station 200W $200
+* Jackery Portable Power Station 300W $300
+* Jackery Portable Power Station 500W $500
+* Rocksolar 300W $330
+* Rocksolar 400W $410
 
 # DIY
 
