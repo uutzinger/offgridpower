@@ -10,6 +10,8 @@ Emergency Power Stations about 300Wh or 30AH
 
 # DIY
 
+![Circuit](./OffGridCircuit.gif)
+
 ## Charger - Inverter
 Inverter: Battery to 120VAC for appliances   
 CHarger: 120VAC to Battery  
@@ -20,7 +22,7 @@ Battery to 120V AC
 * Ampeak https://ampeak.com/collections/all 2000W $150
 * Renogy 2000W 299.-
 
-## 120VAC Power Inverter with AC charger
+### 120VAC Power Inverter with AC charger
 Battery to 120V AC and 120V AC to Battery (charge from wall outlet)  
 Will take battery off from circuit when plugged into wall   
 * Renogy 2000W $610
