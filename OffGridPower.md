@@ -6,6 +6,7 @@ Emergency Power Stations about 300Wh or 30AH
 * Jackery Portable Power Station 500W $500
 * Rocksolar 300W $330
 * Rocksolar 400W $410
+* Bluetti https://www.bluettipower.com/products/bluetti-ac50s-500wh-300w-portable-power-station?variant=40820735213743
 
 # DIY
 
