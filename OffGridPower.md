@@ -1,5 +1,5 @@
 # Power Packs
-Emergency Power Stations about 300Wh or 30AH  
+Emergency Power Stations about 300Wh or 30Ah  
 * Energizer Portable Power Station: http://www.energizerpowerbanks.com/product.php?category=C0003
 * Jackery Portable Power Station 200W $200
 * Jackery Portable Power Station 300W $300
@@ -42,21 +42,21 @@ Need about 100W panel for 50AH 12V battery
 
 ## Charge Controller
 Solar to Battery, its better to use panels in series  
-* Renogy Wanderer 25V 30A $27, 10A $17 (can use multiple panels in parallel)
+* Renogy Wanderer 25V 30A $27, 10A $17 (need to put panels in parallel, not ideal if one pannel has less sun then the other)
 * EPEVER MPPT Charge 100V 30A, $96 (can use multiple solar pannels in series)
 
 ## Isolated DC-DC Charger
 Car Alternator to Battery  
-Need to make sure when car is off, that charger does not drain battery.   
-Likely need to isolate from car battery.  
-Need about 20% of AGM Battery capacity, e.g. 20A fro 100AH battery.  
+Need to make sureh that when car is off, charger does not drain battery.   
+Likely need to isolate from car battery so that system does not charge car battery.  
+Need about 20% of AGM Battery capacity, e.g. 20A fro 100A battery.  
 * 20A Renology DC to DC Charger $110
 * 60A Renogy $220
 
 ## Battery
 12V Lead Acid, AGM seems standard for campers  
-* 100AH, Renogy AGM $190
-* 100AH, Weize AGM $180
+* 100Ah, Renogy AGM $190
+* 100Ah, Weize AGM $180
 
 ## Fuse
 
